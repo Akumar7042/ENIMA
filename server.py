@@ -12,10 +12,10 @@ print( """
       |    | _| ||\ | _||_ ||\/||| _ |           |
       |    |_ _||| \||_ _ |||  |||| ||           |
       |          {{REVERSE SHELL}}               |
-      |               CRAETED BY:Akumar704|007ksv|
+      |               CRAETED BY:Akumar7042||
       |    FOLLOW US ON GITHUB.COM               |
       | _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
-           **USE THIS FOR ILLEGALE PURPOSE ONLY**
+           **USE THIS FOR LEGAL PURPOSE ONLY**
 
                                                                   """)
 
